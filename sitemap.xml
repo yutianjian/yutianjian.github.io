@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/index.html</loc>
-		<lastmod>2017-07-21</lastmod>
+	</url>
+	<url>
+		<loc>/styled-10/index.html</loc>
+	</url>
+	<url>
+		<loc>/styled-11/index.html</loc>
 	</url>
 </urlset>
