@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>http://yutianjian.github.io/index.html</loc>
-		<lastmod>2017-07-20</lastmod>
+		<loc>/index.html</loc>
 	</url>
 	<url>
-		<loc>http://yutianjian.github.io/contact-form/index.php</loc>
-		<lastmod>2017-07-20</lastmod>
+		<loc>/page/index.html</loc>
 	</url>
 	<url>
-		<loc>http://yutianjian.github.io/markdown/index.html</loc>
-		<lastmod>2017-07-20</lastmod>
+		<loc>/markdown/index.html</loc>
 	</url>
 </urlset>
