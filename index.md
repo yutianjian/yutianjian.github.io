@@ -6,7 +6,27 @@
 
 ### My iOS ans macOS Apps 
 
-My iOS and macOS Apps include: Bridge Exercises, Bridge PBN Viewer & Maker, Bridge Team Score, Bridge Pairs Score, Bridge Score Calculator, Chess PGN Viewer, Sudoku Baron, IPTV Player, Family Cashflow, iNotebook, etc.
+My iOS and macOS Apps include: 
+
+(1) Bridge Exercises
+
+(2) Bridge PBN Viewer & Maker
+
+(3) Bridge Team Score
+
+(4) Bridge Pairs Score
+
+(5) Bridge Score Calculator
+
+(6) Chess PGN Viewer
+
+(7) Sudoku Baron
+
+(8) IPTV Player
+
+(9) Family Cashflow
+
+(10) iNotebook
 
 ### My tvOS Apps
 
@@ -15,11 +35,17 @@ My tvOS apps include: Bridge Exercise, fast IPTV Player, etc.
 ### My Android Apps
 
 My Android Apps (Google play App Store) include: 
+
 (1) Practice Your Bridge, it is same with the iOS app Bridge Exercises.
+
 (2) Bridge PBN Viewer and Maker.
+
 (3) Bridge Score Calculator, it's a tool for Bridge player.
+
 (4) Gobang (Renju, five-in-a-row, Gomoku)
+
 (5) iGo
+
 (6) Chess PGN Viewer
 
 ## (1) Bridge Exercises
@@ -41,10 +67,15 @@ It's simply a bridge table that you can learn bridge technique, train yourselves
 
 It offers tons of declarer play exercises for players of all skill levels to practice playing skills. 
 Level evaluation:
+
 1 star: Winning ratio less than 50%
+
 2 star: Winning ratio more than 50% and leas than 60%
+
 3 star: Winning ratio more than 60% and leas than 70%
+
 4 star: Winning ratio more than 70% and leas than 80%
+
 5 star: Winning ratio more than 80%
 
 ### (b) Bridge Basic Play
@@ -65,9 +96,13 @@ Hope you become a very good player and have many bridge fun days.
 ### (c) Bridge Best Hand of The Year
 
 a) The Best Played Hand of the Year (1974-2019)
+
 b) The Best Defence of the Year(1985-2019)
+
 c) The Best Play by a Junior(1996-2019)
+
 d) The BOLS Brilliancy Prize(1977-1987)
+
 e) The Best Play of the Year by a Woman(1985-1986)
 
 ### (d) Bridge Bermuda Bowl
@@ -103,9 +138,13 @@ Bridge PBN Maker
 You can create and export your own Bridge PBN files with Bridge PBN Maker, you can save the result of a game as well as specify rules for dealing, bidding, playing, which allows you enjoy the game whenever you want. 
 
 Features
+
 1) Multiple games per PBN file.
+
 2) Displaying PBN Game Contents.
+
 3) Visualizing Bridge cards Moves From Notation.
+
 4) Create and export Bridge PBN files.
 
 ## (3) Bridge team score
@@ -113,19 +152,31 @@ Features
 ![图标](BridgeTeam.png)
 
 Support for duplicate bridge scoring (Round Robin):
+
 (1) maximum team number: 22
+
 (2) 25 Rounds: form 1 to 25
+
 (3) 12 Rounds Quarterfinal: segment 1-12
+
 (4) 12 Rounds Semifinal: segment 1-12
+
 (5) 12 Rounds Final: segment 1-12 
+
 (6) Sum score for each Round/QF/SF/Final
+
 (7) Cross table for Round/QF/SF/Final
+
 (8) 2012 WBF Continuous VP Scale
+
 (9) IMP table
+
 (10) Printing support.
+
 (11) No of board 6/7/8/9/10/12/14/16/20/32
 
 IMP - International Match Point
+
 VP - Victory Point (2012 WBF Continuous VP Scale)
 
 ## (4) Bridge Pairs Score
@@ -133,19 +184,33 @@ VP - Victory Point (2012 WBF Continuous VP Scale)
 ![图标](BridgePairs.png)
 
 Support Standard Mitchell Movements bridge scoring:
+
 (1) Maximum Group number: 6
+
 (2) Maximum Table number for each group: 20
+
 (3) Maximum Board number for each round: 6
+
 (4) Maximum Total Board number: 20*6 = 120
+
 (5) Enter Score By Round 
+
 (6) Show MP Score and Adjust
+
 (7) Show Score of Each Team
+
 (8) Show Sum Score 
+
 (9) Rank: 
+
 Double Championships By Group 
+
 Double Championships By All
+
 Single Championships By Group
+
 Single Championships By All
+
 (10) Printing.
  
 ## (5) Bridge score calculator
@@ -165,8 +230,11 @@ Versions for iPad/iPhone and iMac.
 Chess PGN Viewer is an application which allows to view PGN format chess games and visualizes moves from its notation. 
 
 Features
+
 1) Multiple games per PGN file.
+
 2) Displaying PGN Game Contents.
+
 3) Visualizing Chess Moves From Notation.
 
 ## (7) Sudoku Baron
@@ -178,7 +246,9 @@ Versions for iPad/iPhone and iMac.
 Sudoku objective: fill 9x9 grid with digits so that each column, row, and the nine 3x3 sub grids contains all of the digits from 1 to 9.
 
 1) Easy, medium, and hard levels.
+
 2) Hint.
+
 3) Notes.
 
 ## (8) IPTV Player
@@ -229,7 +299,11 @@ Versions for iMac.
 Eat foods, grow longer and fatter.
 
 Functions:
+
 (1) Change background and snake color.
+
 (2) Fullscreen.
+
 (3) Walls around board.
+
 (4) Speed setting.
