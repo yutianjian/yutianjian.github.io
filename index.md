@@ -18,7 +18,7 @@ My iOS and macOS Apps include:
 
 (5) Bridge Score Calculator
 
-(6) Chess PGN Viewer
+(6) Chess PGN Viewer (macOS) iPGNViewer (iOS)
 
 (7) Sudoku Baron
 
@@ -225,7 +225,7 @@ Bridge score calculator for bridge scoring when you play bridge.
 
 ![图标](ChessPGN.png)
 
-Versions for iPad/iPhone and iMac.
+Chess PGN Viewer is macOS Version, iPGNViewer is for iPad/iPhone (iOS).
 
 Chess PGN Viewer is an application which allows to view PGN format chess games and visualizes moves from its notation. 
 
