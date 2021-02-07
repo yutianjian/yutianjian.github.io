@@ -18,7 +18,7 @@ My iOS and macOS Apps include:
 
 (5) Bridge Score Calculator
 
-(6) Chess PGN Viewer (macOS) iPGNViewer (iOS)
+(6) Chess PGN Viewer (macOS),  iPGNViewer (iOS)
 
 (7) Sudoku Baron
 
