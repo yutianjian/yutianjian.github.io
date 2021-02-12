@@ -229,6 +229,8 @@ Chess PGN Viewer is macOS Version, iPGNViewer is for iPad/iPhone (iOS).
 
 Chess PGN Viewer is an application which allows to view PGN format chess games and visualizes moves from its notation. 
 
+After 10 thousands pgn files test, App can read most of them normally and works fine.
+
 Features
 
 1) Multiple games per PGN file.
@@ -236,6 +238,8 @@ Features
 2) Displaying PGN Game Contents.
 
 3) Visualizing Chess Moves From Notation.
+
+4) Paste pgn file to the view and save it.
 
 ## (7) Sudoku Baron
 
