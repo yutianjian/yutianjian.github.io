@@ -18,7 +18,7 @@ My iOS and macOS Apps include:
 
 (5) Bridge Score Calculator
 
-(6) Chess PGN Viewer (macOS),  iPGNViewer (iOS)
+(6) Chess Baron (macOS),  iChessBaron (iOS)
 
 (7) Sudoku Baron
 
@@ -221,25 +221,33 @@ Versions for iMac.
 
 Bridge score calculator for bridge scoring when you play bridge.
 
-## (6) Chess PGN Viewer
+## (6) Chess Baron
 
 ![图标](ChessPGN.png)
 
-Chess PGN Viewer is macOS Version, iPGNViewer is for iPad/iPhone (iOS).
+Chess Baron is macOS Version, iChessBaron is for iPad/iPhone (iOS).
 
-Chess PGN Viewer is an application which allows to view PGN format chess games and visualizes moves from its notation. 
+Chess Baron is a iMac application which allows you to view and create PGN format chess games and visualizes moves from its notation. 
 
-After 10 thousands pgn files test, App can read most of them normally and works fine.
+It has training mode. 
+
+You can create and save your own chess PGN files with PGN Maker. 
+
+App can Show comments if the PGN file including comments, and Insert comments when you create PGN file.
 
 Features
 
 1) Multiple games per PGN file.
-
 2) Displaying PGN Game Contents.
-
 3) Visualizing Chess Moves From Notation.
-
-4) Paste pgn file to the view and save it.
+4) Training Mode.
+5) Flip board and change board color.
+6) Paste Move History string into the textview,  then visualizes moves, and save the string.
+7)  Create and save your own chess PGN files.
+8)  Support edit chess position for ending game.
+9) Show comments if the PGN file including comments.
+10) Insert comments when you create PGN file.
+11)  App includes thousands of game collection.
 
 ## (7) Sudoku Baron
 
