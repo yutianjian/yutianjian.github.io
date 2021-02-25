@@ -1,6 +1,6 @@
 ## Welcome to yutianjian’s Website
 
-### Feel free to mail me: yu_tian_jian@163.com
+### Feel free to mail me: yu_tian_jian@163.com   or   yu_tian_jian@sina.cn
 
 #### [欢迎访问我的中文网页](https://yu-tian-jian.github.io)
 
