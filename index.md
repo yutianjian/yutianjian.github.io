@@ -221,13 +221,13 @@ Versions for iMac.
 
 Bridge score calculator for bridge scoring when you play bridge.
 
-## (6) Chess Baron
+## (6) SUPERB CHESS BOARD
 
 ![图标](ChessPGN.png)
 
-Chess Baron is macOS Version, iChessBaron is for iPad/iPhone (iOS).
+SUPERB CHESS BOARD is macOS Version, SUPER CHESS BOARD is for iPad/iPhone (iOS).
 
-Chess Baron is a iMac application which allows you to view and create PGN format chess games and visualizes moves from its notation. 
+SUPERB CHESS BOARD is a iMac application which allows you to view and create PGN format chess games and visualizes moves from its notation. 
 
 It has training mode. 
 
