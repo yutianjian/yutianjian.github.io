@@ -229,7 +229,7 @@ SUPERB CHESS BOARD is macOS Version, SUPER CHESS BOARD is for iPad/iPhone (iOS).
 
 SUPERB CHESS BOARD is a iMac application which allows you to view and create PGN format chess games and visualizes moves from its notation. 
 
-It has training mode. 
+It has training mode. It can open variations of other moves.
 
 You can create and save your own chess PGN files with PGN Maker. 
 
@@ -239,7 +239,7 @@ Features
 
 1) Multiple games per PGN file.
 2) Displaying PGN Game Contents.
-3) Visualizing Chess Moves From Notation.
+3) Visualizing Chess Moves From Notation. It also can open variations of other moves.
 4) Training Mode.
 5) Flip board and change board color.
 6) Paste Move History string into the textview,  then visualizes moves, and save the string.
