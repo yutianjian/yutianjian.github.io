@@ -18,7 +18,7 @@ My iOS and macOS Apps include:
 
 (5) Bridge Score Calculator
 
-(6) Chess Baron (macOS),  iChessBaron (iOS)
+(6) SUPERB CHESS BOARD (macOS),  SUPER CHESS BOARD (iOS), Measure your chess (macOS), Imprive your chess (iOS)
 
 (7) Sudoku Baron
 
