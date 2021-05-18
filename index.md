@@ -249,9 +249,11 @@ Features
 10) Insert comments when you create PGN file.
 11)  App includes thousands of game collection.
 
-## (7) Improve your chess
+## (7) Measure your chess / Improve your chess
 
 ![图标](improveyourchess.png)
+
+Measure your chess is for macOS,  Improve your chess is for iOS.
 
 Learning to spot mates is the simplest way to improve your chess and win more games. 
 Players often miss opportunities involving unusual mates because it's easy to overlook something that is unfamiliar. 
