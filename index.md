@@ -18,15 +18,19 @@ My iOS and macOS Apps include:
 
 (5) Bridge Score Calculator
 
-(6) SUPERB CHESS BOARD (macOS),  SUPER CHESS BOARD (iOS), Measure your chess (macOS), Imprive your chess (iOS)
+(6) SUPERB CHESS BOARD (macOS),  SUPER CHESS BOARD (iOS)
 
-(7) Sudoku Baron
+(7) Measure your chess (macOS), Imprive your chess (iOS)
 
-(8) IPTV Player
+(8) Sudoku Baron
 
-(9) Family Cashflow
+(9) IPTV Player
 
-(10) iNotebook
+(10) Family Cashflow
+
+(11) iNotebook
+
+(12) Classic snake final
 
 ### My tvOS Apps
 
