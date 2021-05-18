@@ -249,7 +249,17 @@ Features
 10) Insert comments when you create PGN file.
 11)  App includes thousands of game collection.
 
-## (7) Sudoku Baron
+## (7) Improve your chess
+
+![图标](improveyourchess.png)
+
+Learning to spot mates is the simplest way to improve your chess and win more games. 
+Players often miss opportunities involving unusual mates because it's easy to overlook something that is unfamiliar. 
+The wide range of exercises will help increase your repertoire of mating pat­terns and give you a better chance of mating your next opponent! 
+
+Enjoy solving these wonderful deadly checkmates puzzles, checking the solutions and totalling your points. 
+
+## (8) Sudoku Baron
 
 ![图标](Sudoku.png)
 
@@ -263,7 +273,7 @@ Sudoku objective: fill 9x9 grid with digits so that each column, row, and the ni
 
 3) Notes.
 
-## (8) IPTV Player
+## (9) IPTV Player
 
 ![图标](IPTV.jpg)
 
@@ -271,7 +281,7 @@ IPTV Player, Watch television on your iMac or MBP.
 
 Please access [IPTV Player Support Website](https://tvplayersupport.github.io/IPTVPlayerSupport/)
 
-## (9) Family Cashflow
+## (10) Family Cashflow
 
 ![图标](FamilyCash.jpg)
 
@@ -283,7 +293,7 @@ Family Cashflow includes summary, common, husband, wife and children five pages 
 
 For making daily records easier, Income will be classified as one kind, expenses is divided into three kind, large(>1000), medium(100)
 
-## (10) iNotebook
+## (11) iNotebook
 
 ![图标](iNotebook.jpg)
 
@@ -302,7 +312,7 @@ VIP: Some one is very important for your business, work or life, you can record 
 
 Footmark: May be you are a travel lover, and have been visited many places in the world. Now you can note your footmarks here, country visited, city visited, arrival time, hotel, sites visited and your visiting feelings.
 
-## (11) Classic snake final
+## (12) Classic snake final
 
 ![图标](Snake.jpg)
 
