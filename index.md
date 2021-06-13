@@ -20,7 +20,7 @@ My iOS and macOS Apps include:
 
 (6) SUPERB CHESS BOARD (macOS),  SUPER CHESS BOARD (iOS)
 
-(7) Chess Exercises (macOS), Improve your chess (iOS)
+(7) Improve your chess skill (macOS), Improve your chess (iOS)
 
 (8) Sudoku Baron
 
@@ -253,11 +253,11 @@ Features
 10) Insert comments when you create PGN file.
 11)  App includes thousands of game collection.
 
-## (7) Chess Exercises / Improve your chess
+## (7) Improve your chess skill / Improve your chess
 
 ![图标](improveyourchess.png)
 
-Chess Exercises is for macOS,  Improve your chess is for iOS.
+Improve your chess skill is for macOS,  Improve your chess is for iOS.
 
 Learning to spot mates is the simplest way to improve your chess and win more games. 
 Players often miss opportunities involving unusual mates because it's easy to overlook something that is unfamiliar. 
