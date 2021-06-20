@@ -24,7 +24,7 @@ My iOS and macOS Apps include:
 
 (8) Sudoku Baron
 
-(9) IPTV Player [IPTV Player Support Website](https://tvplayersupport.github.io/IPTVPlayerSupport/)
+(9) IPTV Player [(IPTV Player Support Website)](https://tvplayersupport.github.io/IPTVPlayerSupport/)
 
 (10) Family Cashflow
 
