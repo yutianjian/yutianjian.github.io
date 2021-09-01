@@ -138,6 +138,11 @@ Bridge PBN Viewer
 PBN is a universal notation to represent bridge games. It can be used in every bridge program for dealing, bidding, playing, and/or teaching. The notation is suitable for all computer platforms.
 There are a lot of Bridge PBN files in websites, You can use Bridge PBN Viewer to read them.
 
+- How to load local PBN file to your iPhone/iPad 
+1. Connecting your device to your computer.
+2. If your macOS is earlier than Catalina, Open iTunes, click file sharing find the Bridge PBN Viewer & Maker, add your PBN file to its file share document. 
+3. If your macOS is Catalina or Big Sur or later, use Finder, you can drag your PBN to Bridge PBN Viewer & Maker's file share document.
+
 Bridge PBN Maker 
 You can create and export your own Bridge PBN files with Bridge PBN Maker, you can save the result of a game as well as specify rules for dealing, bidding, playing, which allows you enjoy the game whenever you want. 
 
@@ -238,6 +243,11 @@ It has training mode. It can open variations of other moves.
 You can create and save your own chess PGN files with PGN Maker. 
 
 App can Show comments if the PGN file including comments, and Insert comments when you create PGN file.
+
+- How to load local PGN file to your iPhone/iPad (for SUPER CHESS BOARD)
+1. Connecting your device to your computer.
+2. If your macOS is earlier than Catalina, Open iTunes, click file sharing find the SUPER CHESS BOARD, add your PGN file to its file share document. 
+3. If your macOS is Catalina or Big Sur or later, use Finder, you can drag your PGN to SUPER CHESS BOARD's file share document.
 
 Features
 
