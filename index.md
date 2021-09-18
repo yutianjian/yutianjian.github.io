@@ -10,27 +10,29 @@ My iOS and macOS Apps include:
 
 (1) Bridge Exercises
 
-(2) Bridge PBN Viewer & Maker
+(2) PRACTICE & TEST YOUR BRIDGE
 
-(3) Bridge Team Score
+(3) Bridge PBN Viewer & Maker
 
-(4) Bridge Pairs Score
+(4) Bridge Team Score
 
-(5) Bridge Score Calculator
+(5) Bridge Pairs Score
 
-(6) SUPERB CHESS BOARD (macOS),  SUPER CHESS BOARD (iOS)
+(6) Bridge Score Calculator
 
-(7) Improve your chess skill (macOS), Improve your chess (iOS)
+(7) SUPERB CHESS BOARD (macOS),  SUPER CHESS BOARD (iOS)
 
-(8) Sudoku Baron
+(8) Improve your chess skill (macOS), Improve your chess (iOS)
 
-(9) IPTV Player [(IPTV Player Support Website)](https://tvplayersupport.github.io/IPTVPlayerSupport/)
+(9) Sudoku Baron
 
-(10) Family Cashflow
+(10) IPTV Player [(IPTV Player Support Website)](https://tvplayersupport.github.io/IPTVPlayerSupport/)
 
-(11) iNotebook
+(11) Family Cashflow
 
-(12) Classic snake final
+(12) iNotebook
+
+(13) Classic snake final
 
 ### My tvOS Apps
 
@@ -126,7 +128,24 @@ After setting contract info, you can deal cards manually, then play and save the
 
 When you see a memorable play or good hands in one web, or in a game, or in a magazine, newspaper, you can play it in your device, enjoy it at any time.
 
-## (2) Bridge PBN Viewer & Maker
+## (2) PRACTICE & TEST YOUR BRIDGE
+
+![图标](practice.png)
+
+Would you like to learn how to improve your Bridge playing skills and quickly and easily so that you can become a more effective player?
+Play often. There is always more to learn about bridge strategy. The best way to improve your game is to practice by playing a lot. Books and guides can help a lot, but at the end of the day, developing a sense of when to do what is a matter of gaining experience with the game.
+
+App also offers you special training of safety play, endplay and defensive play.
+
+Safety play in contract bridge is a generic name for plays in which declarer maximizes the chances for fulfilling the contract (or achieving a certain score) by ignoring a chance for a higher score. Declarer uses safety plays to cope with potentially unfavorable layouts of the opponent's cards. In so doing, declarer attempts to ensure the contract even in worst-case scenarios, by giving up the possibility of overtricks.
+
+Elimination play (endplay)
+The "throw in" or "elimination" is a technique that is needed for very often and everyone should be familiar with it. If you execute a successful throw instead of a losing finesse and spread your cards you'll feel great.
+The most common method employed to gain an additional trick is elimination play. Usually the technique requires the declarer to ‘eliminate’ dangerous side suits, before exiting to one or the other defenders to force them into making an awkward return. This hand arose in a recent Teams match.
+
+PRACTICE & TEST YOUR BRIDGE NOW.
+
+## (3) Bridge PBN Viewer & Maker
 
 ![图标](BridgePBN.png)
 
@@ -156,7 +175,7 @@ Features
 
 4) Create and export Bridge PBN files.
 
-## (3) Bridge team score
+## (4) Bridge team score
 
 ![图标](BridgeTeam.png)
 
@@ -188,7 +207,7 @@ IMP - International Match Point
 
 VP - Victory Point (2012 WBF Continuous VP Scale)
 
-## (4) Bridge Pairs Score
+## (5) Bridge Pairs Score
 
 ![图标](BridgePairs.png)
 
@@ -222,7 +241,7 @@ Single Championships By All
 
 (10) Printing.
  
-## (5) Bridge score calculator
+## (6) Bridge score calculator
 
 ![图标](BridgeCalculator.png)
 
@@ -230,7 +249,7 @@ Versions for iMac.
 
 Bridge score calculator for bridge scoring when you play bridge.
 
-## (6) SUPERB CHESS BOARD
+## (7) SUPERB CHESS BOARD
 
 ![图标](ChessPGN.png)
 
@@ -263,11 +282,11 @@ Features
 10) Insert comments when you create PGN file.
 11)  App includes thousands of game collection.
 
-## (7) Improve your chess skill / Improve your chess
+## (8) Measure your chess / Improve your chess
 
 ![图标](improveyourchess.png)
 
-Improve your chess skill is for macOS,  Improve your chess is for iOS.
+Measure your chess is for macOS,  Improve your chess is for iOS.
 
 Learning to spot mates is the simplest way to improve your chess and win more games. 
 Players often miss opportunities involving unusual mates because it's easy to overlook something that is unfamiliar. 
@@ -275,7 +294,7 @@ The wide range of exercises will help increase your repertoire of mating pat­te
 
 Enjoy solving these wonderful deadly checkmates puzzles, checking the solutions and totalling your points. 
 
-## (8) Sudoku Baron
+## (9) Sudoku Baron
 
 ![图标](Sudoku.png)
 
@@ -289,7 +308,7 @@ Sudoku objective: fill 9x9 grid with digits so that each column, row, and the ni
 
 3) Notes.
 
-## (9) IPTV Player
+## (10) IPTV Player
 
 ![图标](IPTV.jpg)
 
@@ -297,7 +316,7 @@ IPTV Player, Watch television on your iMac or MBP.
 
 Please access [IPTV Player Support Website](https://tvplayersupport.github.io/IPTVPlayerSupport/)
 
-## (10) Family Cashflow
+## (11) Family Cashflow
 
 ![图标](FamilyCash.jpg)
 
@@ -309,7 +328,7 @@ Family Cashflow includes summary, common, husband, wife and children five pages 
 
 For making daily records easier, Income will be classified as one kind, expenses is divided into three kind, large(>1000), medium(100)
 
-## (11) iNotebook
+## (12) iNotebook
 
 ![图标](iNotebook.jpg)
 
@@ -328,7 +347,7 @@ VIP: Some one is very important for your business, work or life, you can record 
 
 Footmark: May be you are a travel lover, and have been visited many places in the world. Now you can note your footmarks here, country visited, city visited, arrival time, hotel, sites visited and your visiting feelings.
 
-## (12) Classic snake final
+## (13) Classic snake final
 
 ![图标](Snake.jpg)
 
