@@ -132,6 +132,8 @@ When you see a memorable play or good hands in one web, or in a game, or in a ma
 
 ![图标](practice.png)
 
+It includes iOS version.
+
 Would you like to learn how to improve your Bridge playing skills and quickly and easily so that you can become a more effective player?
 Play often. There is always more to learn about bridge strategy. The best way to improve your game is to practice by playing a lot. Books and guides can help a lot, but at the end of the day, developing a sense of when to do what is a matter of gaining experience with the game.
 
