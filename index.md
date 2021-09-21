@@ -60,12 +60,8 @@ My Android Apps (Google play App Store) include:
 
 It includes iOS, macOS and tvOS version.
 
-Its free version is Bridge Exercises Lite, with the same function but it contains ad.
-
 It‘s for you to practice bridge, and provide you a lot of classic hands to better understand bridge basic play, it includes:
 A good bridge declarer relies on a variety of skills, strategies and techniques, it helps you practice more. 
-
-It's NOT a on-line game, does NOT need internet.
 
 It's simply a bridge table that you can learn bridge technique, train yourselves, enjoy bridge master's skills at anytime and anywhere, and a perfect product for you to improve your playing skills.
 
