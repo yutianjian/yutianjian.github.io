@@ -22,7 +22,7 @@ My iOS and macOS Apps include:
 
 (7) SUPERB CHESS BOARD (macOS),  SUPER CHESS BOARD (iOS)
 
-(8) Improve your chess skill (macOS), Improve your chess (iOS)
+(8) Measure your chess (macOS), Improve your chess (iOS)
 
 (9) Sudoku Baron
 
@@ -46,13 +46,7 @@ My Android Apps (Google play App Store) include:
 
 (2) Bridge PBN Viewer and Maker.
 
-(3) Bridge Score Calculator, it's a tool for Bridge player.
-
-(4) Gobang (Renju, five-in-a-row, Gomoku)
-
-(5) iGo
-
-(6) Chess PGN Viewer
+(3) Chess PGN Viewer
 
 ## (1) Bridge Exercises
 
