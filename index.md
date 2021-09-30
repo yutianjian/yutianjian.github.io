@@ -8,7 +8,7 @@
 
 My iOS and macOS Apps include: 
 
-(1) Bridge Exercises
+(1) Bridge Exercises (macOS), Bridge Exercises Plus (iOS)
 
 (2) PRACTICE & TEST YOUR BRIDGE
 
@@ -52,7 +52,9 @@ My Android Apps (Google play App Store) include:
 
 ![图标](BridgeExercises.png)
 
-It includes iOS, macOS and tvOS version.
+![图标](bridgePlus.png)
+
+It includes Bridge Exercises (macOS), Bridge Exercises Plus (iOS) and tvOS version.
 
 It‘s for you to practice bridge, and provide you a lot of classic hands to better understand bridge basic play, it includes:
 A good bridge declarer relies on a variety of skills, strategies and techniques, it helps you practice more. 
