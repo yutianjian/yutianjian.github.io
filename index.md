@@ -120,6 +120,10 @@ After setting contract info, you can deal cards manually, then play and save the
 
 When you see a memorable play or good hands in one web, or in a game, or in a magazine, newspaper, you can play it in your device, enjoy it at any time.
 
+### (g) Double dummy problems
+
+It offers a lot of Double dummy problems for you to solve. 
+
 ## (2) PRACTICE & TEST YOUR BRIDGE
 
 ![图标](practice.png)
