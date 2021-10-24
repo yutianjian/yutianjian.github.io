@@ -26,7 +26,7 @@ My iOS and macOS Apps include:
 
 (9) Sudoku Baron
 
-(10) IPTV Player [(IPTV Player Support Website)](https://tvplayersupport.github.io/IPTVPlayerSupport/)
+(10) IPTV Player (macOS), IPTV fast (iOS) [(IPTV Player Support Website)](https://tvplayersupport.github.io/IPTVPlayerSupport/)
 
 (11) Family Cashflow
 
@@ -310,7 +310,7 @@ Sudoku objective: fill 9x9 grid with digits so that each column, row, and the ni
 
 ![图标](IPTV.jpg)
 
-IPTV Player, Watch television on your iMac or MBP.
+IPTV Player (macOS), IPTV fast (iOS), Watch television on your Mac, MBP or iPhone/iPad.
 
 Please access [IPTV Player Support Website](https://tvplayersupport.github.io/IPTVPlayerSupport/)
 
