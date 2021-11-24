@@ -38,16 +38,6 @@ My iOS and macOS Apps include:
 
 My tvOS apps include: Bridge Exercise, fast IPTV Player, etc.
 
-### My Android Apps
-
-My Android Apps (Google play App Store) include: 
-
-(1) Practice Your Bridge, it is same with the iOS app Bridge Exercises.
-
-(2) Bridge PBN Viewer and Maker.
-
-(3) Chess PGN Viewer
-
 ## (1) Bridge Exercises
 
 ![图标](BridgeExercises.png)
