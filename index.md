@@ -114,6 +114,8 @@ When you see a memorable play or good hands in one web, or in a game, or in a ma
 
 It offers a lot of Double dummy problems for you to solve. 
 
+### (h) Play just like a master
+
 ## (2) PRACTICE & TEST YOUR BRIDGE
 
 ![图标](practice.png)
