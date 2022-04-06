@@ -40,7 +40,7 @@ My tvOS apps include: Bridge Exercise, fast IPTV Player, etc.
 
 ### My Windows PC Apps
 
-My Windows PC Apps (Microsoft Store)
+My Windows PC Apps (Microsoft Store) include BridgeFun pro, the same as Bridge Exercises (macOS), Bridge PBN Viewer & Maker, Superb Chess Board, Test Your Chess, and Sudoku Baron, etc.
 
 ## (1) Bridge Exercises
 
