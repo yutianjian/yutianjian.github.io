@@ -40,7 +40,7 @@ My tvOS apps include: Bridge Exercise, fast IPTV Player, etc.
 
 ### My Windows PC Apps
 
-My Windows PC Apps (Microsoft Store) include BridgeFun pro, the same as Bridge Exercises (macOS), Bridge PBN Viewer & Maker, Superb Chess Board, Test Your Chess, and Sudoku Baron, etc.
+My Windows PC Apps (Microsoft Store) include Bridge Exercises, Bridge PBN Viewer & Maker, Superb Chess Board, Test Your Chess, and Sudoku Baron, etc.
 
 ## (1) Bridge Exercises
 
@@ -48,7 +48,7 @@ My Windows PC Apps (Microsoft Store) include BridgeFun pro, the same as Bridge E
 
 ![图标](bridgePlus.png)
 
-It includes Bridge Exercises (macOS), Bridge Exercises Plus (iOS) and tvOS version.
+It includes Bridge Exercises (macOS and windows 10), Bridge Exercises Plus (iOS) and tvOS version.
 
 It‘s for you to practice bridge, and provide you a lot of classic hands to better understand bridge basic play, it includes:
 A good bridge declarer relies on a variety of skills, strategies and techniques, it helps you practice more. 
