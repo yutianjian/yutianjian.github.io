@@ -87,11 +87,11 @@ Hope you become a very good player and have many bridge fun days.
 
 ### (c) Bridge Best Hand of The Year
 
-a) The Best Played Hand of the Year (1974-2019)
+a) The Best Played Hand of the Year (1974-2022)
 
-b) The Best Defence of the Year(1985-2019)
+b) The Best Defence of the Year(1985-2022)
 
-c) The Best Play by a Junior(1996-2019)
+c) The Best Play by a Junior(1996-2022)
 
 d) The BOLS Brilliancy Prize(1977-1987)
 
